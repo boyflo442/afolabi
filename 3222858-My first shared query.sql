@@ -3,5 +3,3 @@ CREATE TABLE student (
     name VARCHAR(20),
     major VARCHAR(20)
 );
-
-DESCRIBE student;
