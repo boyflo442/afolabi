@@ -3,3 +3,7 @@ CREATE TABLE student (
     name VARCHAR(20),
     major VARCHAR(20)
 );
+
+
+
+INSERT INTO student VALUES(1, 'Jack', 'Biology');
