@@ -6,4 +6,5 @@ CREATE TABLE student (
 );
 
 INSERT INTO student VALUES(2, 'Kate', 'Sociology');
-SELECT * FROM student
+
+SELECT * FROM student;
