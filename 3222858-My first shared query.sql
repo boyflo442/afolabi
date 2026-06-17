@@ -5,6 +5,8 @@ CREATE TABLE student (
     PRIMARY KEY(student_id)
 );
 
+INSERT INTO student VALUES(1, 'Jack', 'Biology');
 INSERT INTO student VALUES(2, 'Kate', 'Sociology');
-
-SELECT * FROM student;
+INSERT INTO student(student_id, name) VALUES(3, 'Claire');
+INSERT INTO student VALUES(4, 'John', 'Biology');
+INSERT INTO student VALUES(5, 'Mike', 'Computer Science');
