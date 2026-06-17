@@ -2,6 +2,7 @@ CREATE TABLE student (
     student_id INT,
     name VARCHAR(20),
     major VARCHAR(20)
+    
 );
 SELECT * FROM student;
 
