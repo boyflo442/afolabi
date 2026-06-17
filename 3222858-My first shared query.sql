@@ -5,4 +5,4 @@ CREATE TABLE student (
     PRIMARY KEY(student_id)
 );
 
-SELECT * FROM student;
+INSERT INTO student VALUES(2, 'Kate', 'Sociology');
