@@ -24,4 +24,4 @@ WHERE major = 'Biology';
 
 UPDATE student
 SET major ='Data Analyst'
-WHERE major = 'so'
+WHERE major = 'Sociology'
