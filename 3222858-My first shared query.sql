@@ -19,5 +19,5 @@ SET major ='software engineering'
 WHERE major = 'Computer science';
 
 UPDATE student 
-SET major ='Information technology'
+SET major ='Computer engineering'
 WHERE major = 'Biology';
