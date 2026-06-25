@@ -14,3 +14,4 @@ INSERT INTO student VALUES(4, 'John', 'Biology');
 INSERT INTO student VALUES(5, 'Mike', 'Computer Science');
 
 UPDATE student
+SET major ='nu'
