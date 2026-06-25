@@ -9,7 +9,7 @@ SELECT * FROM student;
 
 INSERT INTO student VALUES(1, 'Jack', 'Biology');
 INSERT INTO student VALUES(2, 'Kate', 'Sociology');
-INSERT INTO studen VALUES(3, 'Claire');
+INSERT INTO student VALUES(3, 'Claire', 'null');
 INSERT INTO student VALUES(4, 'John', 'Biology');
 INSERT INTO student VALUES(5, 'Mike', 'Computer Science');
 INSERT INTO student VALUES(6, 'Afolabi', 'Computer Science');
