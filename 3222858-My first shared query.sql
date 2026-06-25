@@ -16,4 +16,4 @@ INSERT INTO student VALUES(6, 'Afolabi', 'Computer Science')
 
 UPDATE student
 SET major ='software engineering'
-WHERE major = 'null';
+WHERE major = 'computer science';
