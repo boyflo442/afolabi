@@ -21,3 +21,5 @@ WHERE major = 'Computer science';
 UPDATE student 
 SET major ='Computer engineering'
 WHERE major = 'Biology';
+
+UP
