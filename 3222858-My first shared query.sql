@@ -13,7 +13,3 @@ INSERT INTO student VALUES(3, 'Claire', 'Catering');
 INSERT INTO student VALUES(4, 'John', 'Biology');
 INSERT INTO student VALUES(5, 'Mike', 'Computer Science');
 INSERT INTO student VALUES(6, 'Afolabi', 'Computer Science');
-
-UPDATE student
-SET major ='software engineering'
-WHERE major = 'null';
