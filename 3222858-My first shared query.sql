@@ -26,4 +26,4 @@ UPDATE student
 SET major ='Data Analyst'
 WHERE student_id = '3';
 
-DELETE
+DELETE FROM student
